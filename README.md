@@ -1,5 +1,9 @@
 # idealista_data_extraction
 
+This repository contains two different ways of data extraction from Idealista site, from its API and by web scraping. 
+
+It was part of a collaborative project with a UX/UI design student, with the goal of analysing the available listings for people who could afford a maximum rent of 750 euroos.
+
 Repository structure:
 
 -- SRC
