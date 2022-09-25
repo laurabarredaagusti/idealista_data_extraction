@@ -8,7 +8,7 @@ Repository structure:
 
 -- SRC
 
------- api utils - python files to extract data from the api
+------ api_utils - python files to extract data from the api
 
 ---------- functions.py
 
@@ -29,3 +29,13 @@ Repository structure:
 ------ notebooks
 
 ---------- data_extraction_api.ipynb - data extraction from api
+
+------ scraping_utils
+
+---------- classes.py
+
+---------- functions.py
+
+---------- main.py
+
+---------- variables.py
