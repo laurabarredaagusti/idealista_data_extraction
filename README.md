@@ -14,14 +14,14 @@ Repository structure:
 
 ------ data - obtained datasets
 
----------- idealista_api_rent_madrid.csv (data obtained from api
+---------- rent_madrid_api_dataset.csv - obtained data from the api
 
 ------ documentation - api documentation provided by Idealista
 
----------- oauth2-documentation.pdf - documentation about the authentication
+---------- authentication_documentation.pdf - documentation about the authentication
 
----------- property-search-api-v3_5.pdf - documentation about the data extraction
+---------- search_documentation.pdf - documentation about the data extraction
 
 ------ notebooks
 
----------- extract_data_idealista_api.ipynb - data extraction from api
+---------- data_extraction_api.ipynb - data extraction from api
